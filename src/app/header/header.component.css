@@ -1,0 +1,37 @@
+.Logo {
+    width: 60px;
+  }
+  .logo {
+    padding-left: 3%;
+    
+  }
+  
+  .barre {
+    background-color: #FDD90B;
+  }
+  
+  .bar {
+    color: #151217;
+    font-family: "Comfortaa", sans-serif;
+  }
+  .bar:hover {
+    color: #da001e;
+    text-decoration: underline;
+    font-family: "Comfortaa", sans-serif;
+  }
+  
+  .navbar {
+    padding: 0;
+  }
+  
+  .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+  }
